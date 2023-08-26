@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+        database: Branches
+        host: branchesmongodb
+        port: 28017
+
+# server:
+#   port: 8082

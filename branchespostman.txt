@@ -1,0 +1,13 @@
+{
+    "code": "00015",
+    "name": "Sucursal 10",
+    "direccion": "Caranqui",
+    "telefono": "0981445612"
+},
+
+{
+    "code": "00016",
+    "name": "Sucursal 11",
+    "direccion": "Ibarra"
+    "telefono": "0981441234"
+}
